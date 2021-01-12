@@ -7,7 +7,7 @@ namespace TaskList {
         PlanReminderObj _ComRespReminderObj;
         int _EditEventNum = 0;
 
-        public CommandResponse() {}
+        public CommandResponse() { }
         public void Response(CommandType cmdType) {
             switch (cmdType) {
                 case CommandType.Help:
