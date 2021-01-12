@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{60979CA8-6C9D-40AA-AB33-0A3DE2F4B4AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestLevelTwo/DataStorage.cs">
+    <Files>
+      <File FileName="TestLevelTwo/Program.cs" Line="1" Column="19" />
+      <File FileName="TestLevelTwo/DataStorageFile.cs" />
+      <File FileName="TestLevelTwo/ParseInput.cs" />
+      <File FileName="TestLevelTwo/WindowView.cs" />
+      <File FileName="TestLevelTwo/DataStorage.cs" Line="4" Column="23" />
+      <File FileName="TestLevelTwo/CommandResponse.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestLevelTwo" expanded="True">
+            <Node name="TestLevelTwo" expanded="True">
+              <Node name="DataStorage.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestLevelTwo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/user/Projects/TestLevelTwo/TestLevelTwo/CommandResponse.cs" relfile="TestLevelTwo/CommandResponse.cs" line="92" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

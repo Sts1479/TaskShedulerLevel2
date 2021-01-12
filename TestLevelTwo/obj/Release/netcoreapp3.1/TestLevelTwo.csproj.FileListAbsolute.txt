@@ -1,0 +1,12 @@
+/Users/user/Projects/TestLevelTwo/TestLevelTwo/bin/Release/netcoreapp3.1/TestLevelTwo.deps.json
+/Users/user/Projects/TestLevelTwo/TestLevelTwo/bin/Release/netcoreapp3.1/TestLevelTwo.runtimeconfig.json
+/Users/user/Projects/TestLevelTwo/TestLevelTwo/bin/Release/netcoreapp3.1/TestLevelTwo.runtimeconfig.dev.json
+/Users/user/Projects/TestLevelTwo/TestLevelTwo/bin/Release/netcoreapp3.1/TestLevelTwo.dll
+/Users/user/Projects/TestLevelTwo/TestLevelTwo/bin/Release/netcoreapp3.1/TestLevelTwo.pdb
+/Users/user/Projects/TestLevelTwo/TestLevelTwo/obj/Release/netcoreapp3.1/TestLevelTwo.AssemblyInfoInputs.cache
+/Users/user/Projects/TestLevelTwo/TestLevelTwo/obj/Release/netcoreapp3.1/TestLevelTwo.AssemblyInfo.cs
+/Users/user/Projects/TestLevelTwo/TestLevelTwo/obj/Release/netcoreapp3.1/TestLevelTwo.csproj.CoreCompileInputs.cache
+/Users/user/Projects/TestLevelTwo/TestLevelTwo/obj/Release/netcoreapp3.1/TestLevelTwo.dll
+/Users/user/Projects/TestLevelTwo/TestLevelTwo/obj/Release/netcoreapp3.1/TestLevelTwo.pdb
+/Users/user/Projects/TestLevelTwo/TestLevelTwo/obj/Release/netcoreapp3.1/TestLevelTwo.genruntimeconfig.cache
+/Users/user/Projects/TestLevelTwo/TestLevelTwo/obj/Release/netcoreapp3.1/TestLevelTwo.csprojAssemblyReference.cache
